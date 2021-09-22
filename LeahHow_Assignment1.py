@@ -21,9 +21,6 @@ myTshirts = {
 }
 print (myTshirts)
 
-myObjects = ["iphone","water bottle", "fry pan", "tshirts"]
-print ("my obejcts are: " + myObjects )
-
 
 # Assignment2 
 myShoes = {
